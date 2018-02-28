@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://raffaweb.github.io/dev.themapociank.com/gallery/"
-  - JOURNAL: "https://raffaweb.github.io/dev.themapociank.com/journal/"
-  - ABOUT: "https://raffaweb.github.io/dev.themapociank.com/about/"
+  - GALLERY: "https://raffaweb.github.io/gallery/"
+  - JOURNAL: "https://raffaweb.github.io/journal/"
+  - ABOUT: "https://raffaweb.github.io/about/"
 
 # All translation keys
 translations:
