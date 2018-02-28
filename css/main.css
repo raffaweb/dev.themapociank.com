@@ -115,7 +115,7 @@ hr.small {
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #0085a1;
   }
-  
+
   .navbar-custom.is-fixed .nav li a:hover {
     color: #0085a1;
   }
@@ -405,4 +405,3 @@ body {
 .fa-stack-2x {
  color: black;
 }
-
