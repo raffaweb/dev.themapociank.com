@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://raffaweb.github.io"
-baseurl: "/dev.themapociank.com"
+url: "dev.themapociank.com"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
