@@ -120,12 +120,13 @@ ul.ticks li::before { content: '✔';}
 _____________________________________ */
 body.fullscreen #footer {
     position: absolute;
+    display: block;
     bottom: 0;
     padding-bottom: 3.5em;
     right: 0;
     z-index: 3;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 2em 4.5% 0;
 }
 
@@ -134,7 +135,7 @@ body.fullscreen #footer {
 
 ul.soc-icons { list-style: none; vertical-align: top; padding: 0 0 1.5em  .5em; line-height: 1.1; position: relative; z-index: 99; }
 ul.soc-icons::after { content: ""; display: block; clear: both; }
-ul.soc-icons li { padding: 0 0 0 2em; font-size: 1em; }
+ul.soc-icons li { padding: 0 0 .5em 2em; font-size: 1.5em; }
 ul.soc-icons li a { text-decoration: none !important;}
 ul.soc-icons li a:hover i { color: #000;
 	-moz-animation: spinHorizontal .5s linear;
