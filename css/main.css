@@ -99,6 +99,7 @@ hr.small {
     text-shadow: 1px 1px 4px #000;
   }
 }
+
 .intro-header .post-heading h1 {
   font-size: 35px;
 }
@@ -197,6 +198,7 @@ footer .copyright {
   text-align: center;
   margin-bottom: 0;
 }
+
 .floating-label-form-group {
   font-size: 14px;
   position: relative;
@@ -286,6 +288,13 @@ form .row:first-child .floating-label-form-group {
     padding: 15px 25px;
   }
 }
+
+@media only screen and (max-device-width:348px) {
+    ul.soc-icons {
+        font-size: 15px;
+    }
+}
+
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
