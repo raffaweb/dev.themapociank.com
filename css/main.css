@@ -346,13 +346,13 @@ video#bgvid {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg) no-repeat;
+    background: url(img/tunnel.jpg) no-repeat;
     background-size: cover;
 }
 
 @media screen and (max-device-width: 800px) {
     html {
-         background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg) #000 no-repeat center center fixed;
+         background: url(img/tunnel.jpg) #000 no-repeat center center fixed;
     }
     #bgvid {
         display: none;

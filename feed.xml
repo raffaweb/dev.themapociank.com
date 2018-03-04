@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PHOTORAMA</title>
-    <description>Photo Journal</description>
+    <title>The Mapo Ciank</title>
+    <description>The Mapo Ciank</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Wed, 28 Feb 2018 18:12:21 +0100</pubDate>
     <lastBuildDate>Wed, 28 Feb 2018 18:12:21 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
-    
+
       <item>
         <title>Alice in Wonderland</title>
         <description>&lt;p&gt;The rabbit-hole went straight on like a tunnel for some way, and then  dipped suddenly down, so suddenly that Alice had not a moment to think  about stopping herself before she found herself falling down a very deep  well.&lt;/p&gt;
@@ -32,18 +32,18 @@
         <pubDate>Fri, 25 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/Alice-in-Wonderland/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/Alice-in-Wonderland/</guid>
-        
+
         <category>tag01</category>
-        
+
         <category>tag02</category>
-        
-        
+
+
         <category>cat01</category>
-        
+
         <category>cat02</category>
-        
+
       </item>
-    
+
       <item>
         <title>The Scarlet Plague</title>
         <description>&lt;p&gt;The boys laughed and lay down again in the sand, while Granser sighed  ponderously. He had eaten too much, and, with hands clasped on his  paunch, the fingers interlaced, he resumed his maunderings.&lt;/p&gt;
@@ -71,18 +71,18 @@
         <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/The-Scarlet-Plague/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/The-Scarlet-Plague/</guid>
-        
+
         <category>tag03</category>
-        
+
         <category>tag04</category>
-        
-        
+
+
         <category>cat03</category>
-        
+
         <category>cat04</category>
-        
+
       </item>
-    
+
       <item>
         <title>The Wizard of Oz</title>
         <description>&lt;p&gt;Now this same morning the Wicked Witch came to the door of her castle and looked out with her one eye that could see far off.  She saw all her wolves lying dead, and the strangers still traveling through her country.  This made her angrier than before, and she blew her silver whistle twice.&lt;/p&gt;
@@ -110,18 +110,18 @@
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/The-Wizard-of-Oz/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/The-Wizard-of-Oz/</guid>
-        
+
         <category>tag03</category>
-        
+
         <category>tag04</category>
-        
-        
+
+
         <category>cat03</category>
-        
+
         <category>cat04</category>
-        
+
       </item>
-    
+
       <item>
         <title>At the Earth's Core</title>
         <description>&lt;p&gt;Formerly he may have been as good to look upon as the others of his handsome race, and it may be that the terrible result of this encounter had tended to sour an already strong and brutal character.  However this may be it is quite certain that he was not a pretty sight, and now that his features, or what remained of them, were distorted in rage at the sight of Dian with another male, he was indeed most terrible to see&amp;mdash;and much more terrible to meet.&lt;/p&gt;
@@ -147,14 +147,14 @@
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/At-the-Earth's-Core/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/At-the-Earth's-Core/</guid>
-        
+
         <category>tag01</category>
-        
-        
+
+
         <category>cat02</category>
-        
+
       </item>
-    
+
       <item>
         <title>Moby Dick</title>
         <description>&lt;p&gt;Nearly all joined in singing this hymn, which swelled high above the howling of the storm. A brief pause ensued; the preacher slowly turned over the leaves of the Bible, and at last, folding his hand down upon the proper page, said: &quot;Beloved shipmates, clinch the last verse of the first chapter of Jonah&amp;mdash;'And God had prepared a great fish to swallow up Jonah.'&quot;&lt;/p&gt;
@@ -168,14 +168,14 @@
         <pubDate>Sat, 05 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/Moby-Dick/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/Moby-Dick/</guid>
-        
+
         <category>tag02</category>
-        
-        
+
+
         <category>cat03</category>
-        
+
       </item>
-    
+
       <item>
         <title>Around the World in 80 Days</title>
         <description>&lt;p&gt;&quot;You're a sly dog!&quot; said Passepartout, winking at him.&lt;/p&gt;
@@ -203,14 +203,14 @@
         <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/Around-the-World-in-80-Days/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/Around-the-World-in-80-Days/</guid>
-        
+
         <category>tag03</category>
-        
-        
+
+
         <category>cat04</category>
-        
+
       </item>
-    
+
       <item>
         <title>BLOG IMAGE PERFORMANCE IS NECESSARY</title>
         <description>&lt;p&gt;I would like to thank &lt;a href=&quot;http://designyourownblog.com/about-dyob/&quot;&gt;Marianne&lt;/a&gt;, owner of &lt;a href=&quot;http://designyourownblog.com/&quot;&gt;DESIGN YOUR OWN BLOG&lt;/a&gt; who gave me permission to link to her post where she is talking about blog image performance.&lt;/p&gt;
@@ -267,10 +267,10 @@
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/images-size-for-better-performance/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/images-size-for-better-performance/</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Multiple Galleries</title>
         <description>&lt;html class=&quot;no-js&quot; lang=&quot;en&quot;&gt;
@@ -294,11 +294,11 @@
 
 
            &lt;!-- Gallery __--&gt;
-			
+
 
 
 &lt;div class=&quot;gallery masonry-gallery&quot;&gt;
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -306,9 +306,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -317,7 +317,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -325,9 +325,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -336,7 +336,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -344,9 +344,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -355,7 +355,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 &lt;/div&gt;
 
 
@@ -364,11 +364,11 @@
 &lt;p&gt; Add as many galleries as you want, including as many photos as you want. Simply edit the &lt;b&gt;FRONT MATTER&lt;/b&gt; of the post, adding the corresponding &lt;b&gt;path&lt;/b&gt;, &lt;b&gt;caption&lt;/b&gt; and &lt;b&gt;copyright&lt;/b&gt; info for each one of your photos. &lt;/p&gt;
 
            &lt;!-- Gallery __--&gt;
-			
+
 
 
 &lt;div class=&quot;gallery masonry-gallery&quot;&gt;
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -376,9 +376,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -387,7 +387,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -395,9 +395,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -406,7 +406,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 
   &lt;figure class=&quot;gallery-item&quot;&gt;
 
@@ -414,9 +414,9 @@
 
 &lt;a href=&quot;http://localhost:4000/img/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/img/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
-						
-	&lt;/header&gt;	
-		
+
+	&lt;/header&gt;
+
    &lt;figcaption class=&quot;gallery-caption&quot;&gt;
 		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
 				&lt;h3&gt;IMAGE TITLE&lt;/h3&gt;
@@ -425,7 +425,7 @@
 					&lt;/figcaption&gt;
 				&lt;/figure&gt;
 
-  
+
 &lt;/div&gt;
 
 
@@ -441,9 +441,9 @@ Photography by: &lt;a href=&quot;https://unsplash.com/photos/j0g8taxHZa0&quot;&g
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/journal/multiple-galleries/</link>
         <guid isPermaLink="true">http://localhost:4000/journal/multiple-galleries/</guid>
-        
-        
+
+
       </item>
-    
+
   </channel>
 </rss>
